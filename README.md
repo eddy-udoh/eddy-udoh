@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Edidiongabasi 👋
 
-<!--
-**eddy-udoh/eddy-udoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 300-level Computer Science student at Covenant University  
+💻 Aspiring Frontend Developer | UI/UX Enthusiast | Creative Content Creator  
+🌱 Currently exploring modern web technologies and building myself  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+- 🌟 Passionate about **designing intuitive user experiences** and bringing them to life with **frontend development**
+- 🛠️ Experienced with **HTML, CSS, JavaScript, React**, and **UI/UX design in Figma**
+- 💡 Interested in **building solutions** that enhance productivity and creativity
+- 🖋️ I also enjoy **content creation**, sharing my journey in tech and lifestyle
+
+## 🔹 Connect With Me
+- 📫 **Email:** didiudoh2005@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/edidiongabasi-inyangudoh-b706b82b8](https://linkedin.com/in/edidiongabasi-inyangudoh-b706b82b8)    
+- 💻 **GitHub:** [github.com/eddy-udoh](https://github.com/eddy-udoh)  
+
+---
+
+⭐ *"Don’t tell me the sky’s the limit when there are footprints on the moon."* – Paul Brandt 
