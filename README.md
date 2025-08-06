@@ -1,25 +1,35 @@
 # Hi, I'm Edidiongabasi 👋
 
 🎓 300-level Computer Science student at Covenant University  
-💻 Aspiring Frontend Developer | UI/UX Enthusiast | Creative Content Creator  
-🌱 Currently exploring modern web technologies and building myself  
+💻 Aspiring Frontend Developer | Curious ML Explorer | Lifestyle Content Creator  
+🌱 Learning, building, and trying to make student life a little easier  
 
 ---
 
 ## 🔹 About Me
-- 🌟 Passionate about **designing intuitive user experiences** and bringing them to life with **frontend development**
-- 🛠️ Experienced with **HTML, CSS, JavaScript, React**, and **UI/UX design in Figma**
-- 💡 Interested in **building solutions** that enhance productivity and creativity
-- 🖋️ I also enjoy **content creation**, sharing my journey in tech and lifestyle
 
+- 🚀 Currently exploring **frontend development** with **HTML, CSS, JavaScript, and React**, while occasionally poking around in **machine learning**  
+- 🖌️ Love turning **ideas into simple and intuitive user experiences**, and I design with **Figma** when I’m not coding  
+- 📹 I create **lifestyle and tech content**, sharing my journey as a student figuring it all out  
+- 💡 Passionate about **projects that solve real problems**, like my upcoming **digitalized student-supervisor platform**—saving Nigerian students time, stress, and printing costs  
+
+---
+
+## 🔹 Fun Facts
+
+- 🧩 I treat coding challenges like puzzles, even when they fight back  
+- 🎬 Outside of code, I create lifestyle and tech content for fun  
+- 🎯 My goal is to **combine frontend + ML** to build smarter, student-focused solutions  
+
+---
 ## 🔹 Connect With Me
 - 📫 **Email:** didiudoh2005@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/edidiongabasi-inyangudoh-b706b82b8](https://linkedin.com/in/edidiongabasi-inyangudoh-b706b82b8)    
 - 💻 **GitHub:** [github.com/eddy-udoh](https://github.com/eddy-udoh)  
 
 ---
-
-⭐ *"Don’t tell me the sky’s the limit when there are footprints on the moon."* – Paul Brandt 
+## 🔹 My Favorite Quote
+⭐ *"Don’t tell me the sky’s the limit when there are footprints on the moon."* ~ Paul Brandt 
 
 
 # 💻 Tech Stack:
