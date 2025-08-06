@@ -1,4 +1,4 @@
-# Hi, I'm Edidiongabasi 👋
+# Hi, I'm Edidiongabasi ⭐
 
 🎓 300-level Computer Science student at Covenant University  
 💻 Aspiring Frontend Developer | Curious ML Explorer | Lifestyle Content Creator  
@@ -10,7 +10,7 @@
 
 - 🚀 Currently exploring **frontend development** with **HTML, CSS, JavaScript, and React**, while occasionally poking around in **machine learning**  
 - 🖌️ Love turning **ideas into simple and intuitive user experiences**, and I design with **Figma** when I’m not coding  
-- 📹 I create **lifestyle and tech content**, sharing my journey as a student figuring it all out  
+- 📹 I create **lifestyle and tech content**, sharing my journey  
 - 💡 Passionate about **projects that solve real problems**, like my upcoming **digitalized student-supervisor platform**—saving Nigerian students time, stress, and printing costs  
 
 ---
