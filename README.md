@@ -1,6 +1,6 @@
 # Hi, I'm Edidiongabasi 👋
 
-Final-year Computer Science student at Covenant University. I started out on the frontend, drifted into machine learning, and now spend most of my time building things that combine both — currently, a system that helps Yoruba-speaking patients talk to their doctors.
+Final-year Computer Science student at Covenant University. I started out on the frontend, drifted into machine learning, and now spend most of my time building things that combine both, currently, a system that helps Yoruba-speaking patients talk to their doctors.
 
 ## 🔬 What I'm building right now
 
@@ -34,11 +34,10 @@ Under the hood, I fine-tuned Whisper for Yoruba speech recognition, adapted Mari
 
 ## 🔹 A bit more about me
 
-- I sketch in Figma before I open an editor — the code goes better when I already know what it should feel like
-- Nothing I build stays in a notebook; if it works, it gets a page you can click
+- I love learning
+- I enjoy sidequests and building projects for fun
 - Off-screen, I make lifestyle and tech content about the student-developer life
-- I gravitate toward problems I can see around me — a clinic where the doctor and patient don't share a language, a student workflow that wastes everyone's week
-- I treat hard bugs like puzzles: annoying at midnight, satisfying by morning
+- I gravitate toward problems I can see around me 
 
 ## 📊 GitHub stats
 
