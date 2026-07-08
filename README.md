@@ -1,41 +1,44 @@
-# Hi, I'm Edidiongabasi ⭐
+# Hey, I'm Edidiongabasi ⭐
 
 🎓 Final-year Computer Science student at Covenant University
-🤖 Machine Learning × Frontend — I build ML systems people can actually use
-🌍 Working on speech & language tech for low-resource African languages
+💻 I started out making buttons look pretty — now I'm teaching computers to understand Yoruba
+🌱 Somewhere in between, I fell in love with building things people actually use
 
 ---
 
-## 🔬 What I'm Building Now
+## 🔬 What I'm Building Right Now
 
-**[MedSpeak](https://github.com/eddy-udoh/fyp-yoruba-english-s2st)** — my final year project: a bidirectional **Yoruba ↔ English speech-to-speech translation system** for medical consultations in Nigerian clinics.
+**[MedSpeak](https://github.com/eddy-udoh/fyp-yoruba-english-s2st)** — my final year project. Picture a patient describing their symptoms in Yoruba, and the doctor hearing it in English, spoken back in seconds. That's what I'm building: a two-way **Yoruba ↔ English speech-to-speech translator** for Nigerian clinics.
 
-- 🎙️ Fine-tuned **Whisper** for Yoruba speech recognition (WER 63% → 53% on FLEURS)
-- 🔁 Domain-tuned **MarianMT** translation models (BLEU 54 yo→en on medical text)
-- 🗣️ **VITS** Yoruba speech synthesis, neural English TTS
-- ⚙️ Served end-to-end through a **Flask** API with a **React** frontend
+Under the hood, I fine-tuned **Whisper** to hear Yoruba properly, taught **MarianMT** medical vocabulary it never knew it needed, and gave it a voice with **VITS** — all wrapped in a **Flask** API with a **React** frontend. Low-resource languages don't make any of this easy (Yoruba's tonal diacritics have humbled me more than any compiler error), but watching a full sentence make it through the pipeline never gets old.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Things I've Built
 
-| Project | What it does | Built with |
+| Project | The story | Built with |
 |---|---|---|
-| [MedSpeak YO-EN](https://github.com/eddy-udoh/fyp-yoruba-english-s2st) | Yoruba ↔ English speech-to-speech translation for healthcare | Whisper · MarianMT · VITS · Flask · React |
-| [Face Emotion Detector](https://github.com/eddy-udoh/FACE-EMOTION-DETECTOR) | CNN that recognises facial emotions, served as a web app | Keras · TensorFlow · Flask |
-| [LLM QA Project](https://github.com/eddy-udoh/LLM_QA_PROJECT) | LLM-powered question answering with CLI and hosted web GUI | Python · Flask |
-| [KYC App](https://github.com/eddy-udoh/KYC-App) | Self-service identity verification with document + face analysis | React · AWS Textract · Rekognition · Polly |
-| [Breast Cancer Prediction](https://github.com/eddy-udoh/Breast-Cancer-Prediction-Sys) | ML diagnostic classifier deployed as a web app | scikit-learn · Flask |
-| [Positivus Agency](https://github.com/eddy-udoh/Positivus-Agency) | Responsive marketing agency site with smooth animations | HTML · CSS · JavaScript |
+| [MedSpeak YO-EN](https://github.com/eddy-udoh/fyp-yoruba-english-s2st) | Helping doctors and patients understand each other, one sentence at a time | Whisper · MarianMT · VITS · Flask · React |
+| [Face Emotion Detector](https://github.com/eddy-udoh/FACE-EMOTION-DETECTOR) | A CNN I trained to read faces better than I read my own | Keras · TensorFlow · Flask |
+| [LLM QA Project](https://github.com/eddy-udoh/LLM_QA_PROJECT) | Ask it anything — an LLM-powered Q&A app with a CLI and web GUI | Python · Flask |
+| [KYC App](https://github.com/eddy-udoh/KYC-App) | Identity verification that checks your documents *and* your face | React · AWS Textract · Rekognition · Polly |
+| [Breast Cancer Prediction](https://github.com/eddy-udoh/Breast-Cancer-Prediction-Sys) | An ML classifier doing its small part for early detection | scikit-learn · Flask |
+| [Positivus Agency](https://github.com/eddy-udoh/Positivus-Agency) | A marketing site so smooth it almost markets itself | HTML · CSS · JavaScript |
 
 ---
 
 ## 🔹 About Me
 
-- 🚀 I like taking models out of notebooks and into **working products** — every ML project I ship gets a web interface
-- 🖌️ I design in **Figma** before I code, and care about interfaces that feel simple
-- 📹 I create **lifestyle and tech content**, sharing my journey
-- 💡 Drawn to projects that solve **real local problems** — language barriers in hospitals, student workflows, identity verification
+- 🚀 My rule: no model gets to live in a notebook forever — everything I build ends up as something you can click
+- 🖌️ I design in **Figma** before I write a single line of code (future me always says thank you)
+- 📹 When I'm not debugging, I'm creating **lifestyle and tech content**, sharing the journey
+- 💡 I'm drawn to problems close to home — language barriers in hospitals, student stress, things that make life here a little easier
+
+## 🧩 Fun Facts
+
+- I treat coding challenges like puzzles, even when they fight back
+- My browser history is 50% Stack Overflow, 50% Yoruba pronunciation guides
+- My goal is to **combine frontend + ML** into things that feel less like tech demos and more like magic
 
 ---
 
